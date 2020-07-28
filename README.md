@@ -1,2 +1,3 @@
 # Linear_Regression-Web-App
-In this Repository You will find , how to deploy your Machine Learning  Linear Regression model using Flask .
+This Repository will help you to deploy your Machine Learning  Linear Regression model using Flask .
+
